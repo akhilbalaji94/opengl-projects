@@ -1,0 +1,18 @@
+[submodule "opengl-helloworld"]
+	path = opengl-helloworld
+	url = git@github.com:akhilbalaji94/opengl-helloworld.git
+[submodule "opengl-transformations"]
+	path = opengl-transformations
+	url = git@github.com:akhilbalaji94/opengl-transformations.git
+[submodule "opengl-shading"]
+	path = opengl-shading
+	url = git@github.com:akhilbalaji94/opengl-shading.git
+[submodule "opengl-texturing"]
+	path = opengl-texturing
+	url = git@github.com:akhilbalaji94/opengl-texturing.git
+[submodule "opengl-renderToTexture"]
+	path = opengl-renderToTexture
+	url = git@github.com:akhilbalaji94/opengl-renderToTexture.git
+[submodule "opengl-reflections"]
+	path = opengl-reflections
+	url = git@github.com:akhilbalaji94/opengl-reflections.git
