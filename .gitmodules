@@ -19,3 +19,6 @@
 [submodule "opengl-pcss-with-fsr1.0-macos"]
 	path = opengl-pcss-with-fsr1.0-macos
 	url = git@github.com:akhilbalaji94/opengl-pcss-with-fsr1.0-macos.git
+[submodule "opengl-shadowmapping"]
+	path = opengl-shadowmapping
+	url = git@github.com:akhilbalaji94/opengl-shadowmapping.git
