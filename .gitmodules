@@ -22,3 +22,6 @@
 [submodule "opengl-shadowmapping"]
 	path = opengl-shadowmapping
 	url = git@github.com:akhilbalaji94/opengl-shadowmapping.git
+[submodule "opengl-tessellation"]
+	path = opengl-tessellation
+	url = git@github.com:akhilbalaji94/opengl-tessellation.git
